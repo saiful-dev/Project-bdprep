@@ -1,3 +1,19 @@
 .Layout{
     color:rgb(199, 127, 33);
 }
+ol {
+    list-style-type: lower-alpha;
+    list-style-position: inside;
+    
+    padding: 0;
+   
+  }
+
+  ul{
+    list-style-type: none;
+    list-style-position: inside;
+    padding: 0;
+    
+  }
+
+ 
